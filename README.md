@@ -5,7 +5,7 @@ A bike sharing startup is trying to solidify a business proposal for use in Des 
 
 ## Resources
 - Data Source: 201908-citibike-tripdata.csv
-- Software: Python 3.10.1, Visual Studio Code 1.63.2
+- Software: Python 3.10.1, Visual Studio Code 1.63.2, Pandas 1.2.4
 - See link below for Tableau Public presentation
 
 [Bike Sharing Program](https://public.tableau.com/app/profile/jon.anderson3277/viz/Challenge14_16475646674430/BikeSharingProgram?publish=yes)
@@ -13,9 +13,19 @@ A bike sharing startup is trying to solidify a business proposal for use in Des 
 ## Results
 
 - **Breakdown Viz**
+<img width="678" alt="Screen Shot 2022-03-21 at 6 10 32 PM" src="https://user-images.githubusercontent.com/91889241/159378161-43de3c32-9219-4f69-b04c-18ca7508c66b.png">
+
+
 - **Trips**
+<img width="634" alt="Screen Shot 2022-03-21 at 6 11 13 PM" src="https://user-images.githubusercontent.com/91889241/159378172-7d2f9743-5bde-4366-a746-4c18664e2f25.png">
+
+
 - **Checkout Times**
+<img width="645" alt="Screen Shot 2022-03-21 at 6 11 23 PM" src="https://user-images.githubusercontent.com/91889241/159378180-d6ed419e-841f-4c6b-b99a-48d7b754d7f7.png">
+
+
 - **Placement**
+<img width="645" alt="Screen Shot 2022-03-21 at 6 11 31 PM" src="https://user-images.githubusercontent.com/91889241/159378190-9da5e8f6-c34e-44d2-a25c-3120e5e39086.png">
 
 
 ## Summary
