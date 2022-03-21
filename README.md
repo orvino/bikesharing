@@ -6,8 +6,17 @@ A bike sharing startup is trying to solidify a business proposal for use in Des 
 ## Resources
 - Data Source: 201908-citibike-tripdata.csv
 - Software: Python 3.10.1, Visual Studio Code 1.63.2
+- See link below for Tableau Public presentation
 
 [Bike Sharing Program](https://public.tableau.com/app/profile/jon.anderson3277/viz/Challenge14_16475646674430/BikeSharingProgram?publish=yes)
+
+## Results
+
+- **Breakdown Viz**
+- **Trips**
+- **Checkout Times**
+- **Placement**
+
 
 ## Summary
 The analysis of the election. show that:
