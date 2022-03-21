@@ -1,17 +1,13 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
-
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentag of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+A bike sharing startup is trying to solidify a business proposal for use in Des Moines, Iowa.  We have brought together information based on CitiBike from Manhatten, a burough of New York city, to help show trends and opportunities.
 
 ## Resources
-- Data Source: election_results.csv
+- Data Source: 201908-citibike-tripdata.csv
 - Software: Python 3.10.1, Visual Studio Code 1.63.2
+
+https://public.tableau.com/app/profile/jon.anderson3277/viz/Challenge14_16475646674430/BikeSharingProgram?publish=yes
 
 ## Summary
 The analysis of the election. show that:
