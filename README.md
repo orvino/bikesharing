@@ -44,7 +44,3 @@ Based on the graphs and the data shown, it appears the majority of people in the
 To gain further insight with the data provided by CitiBikes, it would be prudent to look also at usage by age as well.  Depending on certain areas of Manhatten, we could have a certain pockets of the ideal age of bikers which could help focus placement of any future bike program.
 
 Another visualization to use is to isolate outliers.  We could have several very high users, making many more trips than the standard deviation, and contrarily, have some, primarily subscribers, using it very little or going a short distance.
- 
- ## Challenge Overiew
- 
- ## Challenge Summary
