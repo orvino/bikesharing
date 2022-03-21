@@ -39,18 +39,11 @@ These graphs are depicting the average lenght of each trip per number of bikes u
 This depiction of Manhatten illustrates the density of usage from start of the trip to the ending.  There is some decent spread amongst everything south of Central Park, but noticing entertainment, business, and riverfront tend to have higher density, thus more usage.  Since most people are subscribers and not just customers, these individuals appear to be using it more for commuting from home to office based on the density.
 
 ## Summary
-The analysis of the election. show that:
-- There were "x" votes cast in the election.
-- The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
-- The candidate results were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
-- The winner of the election was:
-  - Candidate (1, 2, or 3), who rec eived "x%" of the vote and "y" number of votes.
+Based on the graphs and the data shown, it appears the majority of people in the Manhatten sector are: Using CitiBikes for commuting based of time of weekday usage; CitiBikes are primarily used by male subscribers, on an average of 40 minutes of use; and subscribtions drive more usage than generic customers.
+
+To gain further insight with the data provided by CitiBikes, it would be prudent to look also at usage by age as well.  Depending on certain areas of Manhatten, we could have a certain pockets of the ideal age of bikers which could help focus placement of any future bike program.
+
+Another visualization to use is to isolate outliers.  We could have several very high users, making many more trips than the standard deviation, and contrarily, have some, primarily subscribers, using it very little or going a short distance.
  
  ## Challenge Overiew
  
